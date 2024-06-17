@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="585447bf-ae2b-45f9-9b0a-de4f8565fdd4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-common/oa-common-service-util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-common/oa-common-service-util/src/main/java/org/quicksand/common/config/knife4j/Knife4jConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-common/oa-common-service-util/src/main/java/org/quicksand/common/config/mp/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-common/oa-common-service-util/src/main/java/org/quicksand/common/execption/OaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-common/oa-common-service-util/src/main/java/org/quicksand/common/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-common/oa-common-util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-common/oa-common-util/src/main/java/org/quicksand/common/result/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-common/oa-common-util/src/main/java/org/quicksand/common/result/ResultCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/system/SysRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/system/SysUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/QBro99430/OA.git",
+    "accountId": "8dcd1370-8b5e-49bf-8d75-776e1d3cd051"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2i0ReGcxqs8cy7eVIMh6cowlZz0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven.oa-parent [org.apache.maven.plugins:maven-install-plugin:2.5.2:install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Leaning/test/IDEA/oa-parent/oa-model/src/main/java/org/quicksand/system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.XML",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Leaning\test\IDEA\oa-parent\oa-model\src\main\java\org\quicksand\system" />
+      <recent name="D:\Leaning\test\IDEA\oa-parent\oa-model\src\main\java\org\quicksand\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Leaning\test\IDEA\oa-parent" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="585447bf-ae2b-45f9-9b0a-de4f8565fdd4" name="更改" comment="" />
+      <created>1718625604858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718625604858</updated>
+      <workItem from="1718625605989" duration="4416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
