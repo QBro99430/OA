@@ -1,4 +1,4 @@
-package org.quicksand.system;
+package org.quicksand.model.system;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableName;
@@ -6,7 +6,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
-import org.quicksand.model.BaseEntity;
+import org.quicksand.model.base.BaseEntity;
 
 
 @Data

@@ -1,4 +1,4 @@
-package org.quicksand.model;
+package org.quicksand.model.base;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
