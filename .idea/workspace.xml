@@ -6,26 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="585447bf-ae2b-45f9-9b0a-de4f8565fdd4" name="更改" comment="初始工程">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/model/system/SysUserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/vo/AssginRoleVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/vo/SysUserQueryVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/controller/SysRoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/controller/SysUserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/mapper/SysRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/mapper/SysUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/mapper/SysUserRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/service/Impl/SysRoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/service/Impl/SysUserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/service/SysRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/service/SysUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/model/system/SysMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/model/system/SysRoleMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/model/system/helper/MenuHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/vo/AssginMenuVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/controller/SysMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/mapper/SysMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/mapper/SysRoleMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/service/Impl/SysMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oa-service/src/main/java/org/quicksand/auth/service/SysMenuService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/model/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/model/base/BaseEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/system/SysRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/model/system/SysRole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/system/SysUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa-model/src/main/java/org/quicksand/model/system/SysUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,32 +56,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Maven.oa-parent [org.apache.maven.plugins:maven-install-plugin:2.5.2:install].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.Application.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Leaning/test/IDEA/oa-parent/oa-model/src/main/java/org/quicksand/model/system&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.XML&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven.oa-parent [org.apache.maven.plugins:maven-install-plugin:2.5.2:install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.Application.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Leaning/test/IDEA/oa-parent/oa-model/src/main/java/org/quicksand/model/system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.XML",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Leaning\test\IDEA\oa-parent\oa-model\src\main\java\org\quicksand\model\system" />
@@ -142,6 +132,7 @@
       <updated>1718625604858</updated>
       <workItem from="1718625605989" duration="7208000" />
       <workItem from="1718711410339" duration="3287000" />
+      <workItem from="1718762130318" duration="6559000" />
     </task>
     <task id="LOCAL-00001" summary="初始工程">
       <option name="closed" value="true" />
